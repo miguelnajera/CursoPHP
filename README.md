@@ -1,2 +1,2 @@
 # CursoPHP
-CursoAvanzadoPHP
+CursoAvanzado_PHP
